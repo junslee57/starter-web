@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Junsang Lee junslee57@gmail.com
 
 # THANKS
 
